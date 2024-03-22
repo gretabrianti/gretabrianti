@@ -1,5 +1,7 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on GNNs
- 🌱 I’m currently learning Machine Learning in High Energy Physics
+ 🌱 I develop Machine Learning tools for High Energy Physics purpose
+ 🌱 I am an ATLAS member at CERN
+
+ 
 
